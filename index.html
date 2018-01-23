@@ -10,5 +10,17 @@
   </head>
   <body>
     <div id="main"></div>
+    <script src="elm.js"></script>
+    <script>
+    function playAudio(mediaUrl) {
+	  var audio = new Audio(mediaUrl);
+	  audio.play();
+    }
+    var node = document.getElementById('main');
+    var app = Elm.Main.embed(node);
+    app.ports.playAudio.subscribe(playAudio);
+    // Note: if your Elm module is named "MyThing.Root" you
+    // would call "Elm.MyThing.Root.embed(node)" instead.
+    </script>
   </body>
 </html>
