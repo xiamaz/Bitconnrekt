@@ -9084,51 +9084,47 @@ var _user$project$Main$init = {
 		_elm_lang$core$Array$fromList(
 			{
 				ctor: '::',
-				_0: 'amazing_opportunity.mp3',
+				_0: 'bitconnect1.mp3',
 				_1: {
 					ctor: '::',
-					_0: 'bitconnect1.mp3',
+					_0: 'bitconnect2.mp3',
 					_1: {
 						ctor: '::',
-						_0: 'bitconnect2.mp3',
+						_0: 'bitconnect3.mp3',
 						_1: {
 							ctor: '::',
-							_0: 'bitconnect3.mp3',
+							_0: 'changing_the_world.mp3',
 							_1: {
 								ctor: '::',
-								_0: 'changing_the_world.mp3',
+								_0: 'coming_in_waves.mp3',
 								_1: {
 									ctor: '::',
-									_0: 'coming_in_waves.mp3',
+									_0: 'explode.mp3',
 									_1: {
 										ctor: '::',
-										_0: 'explode.mp3',
+										_0: 'get_bitcoins.mp3',
 										_1: {
 											ctor: '::',
-											_0: 'get_bitcoins.mp3',
+											_0: 'i_love.mp3',
 											_1: {
 												ctor: '::',
-												_0: 'i_love.mp3',
+												_0: 'making_so_much_money.mp3',
 												_1: {
 													ctor: '::',
-													_0: 'making_so_much_money.mp3',
+													_0: 'seed.mp3',
 													_1: {
 														ctor: '::',
-														_0: 'seed.mp3',
+														_0: 'thats_a_scam.mp3',
 														_1: {
 															ctor: '::',
-															_0: 'thats_a_scam.mp3',
+															_0: 'what.mp3',
 															_1: {
 																ctor: '::',
-																_0: 'what.mp3',
+																_0: 'wowowo.mp3',
 																_1: {
 																	ctor: '::',
-																	_0: 'wowowo.mp3',
-																	_1: {
-																		ctor: '::',
-																		_0: 'yayaya.mp3',
-																		_1: {ctor: '[]'}
-																	}
+																	_0: 'yayaya.mp3',
+																	_1: {ctor: '[]'}
 																}
 															}
 														}
