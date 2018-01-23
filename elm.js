@@ -9102,72 +9102,32 @@ var _user$project$Main$init = {
 									_0: 'coming_in_waves.mp3',
 									_1: {
 										ctor: '::',
-										_0: 'conartist.mp3',
+										_0: 'explode.mp3',
 										_1: {
 											ctor: '::',
-											_0: 'explode.mp3',
+											_0: 'get_bitcoins.mp3',
 											_1: {
 												ctor: '::',
-												_0: 'faith_believe.mp3',
+												_0: 'i_love.mp3',
 												_1: {
 													ctor: '::',
-													_0: 'get_bitcoins.mp3',
+													_0: 'making_so_much_money.mp3',
 													_1: {
 														ctor: '::',
-														_0: 'gonna_do.mp3',
+														_0: 'seed.mp3',
 														_1: {
 															ctor: '::',
-															_0: 'i_love.mp3',
+															_0: 'thats_a_scam.mp3',
 															_1: {
 																ctor: '::',
-																_0: 'making_so_much_money.mp3',
+																_0: 'what.mp3',
 																_1: {
 																	ctor: '::',
-																	_0: 'nargh.mp3',
+																	_0: 'wowowo.mp3',
 																	_1: {
 																		ctor: '::',
-																		_0: 'nonono.mp3',
-																		_1: {
-																			ctor: '::',
-																			_0: 'scammergame.mp3',
-																			_1: {
-																				ctor: '::',
-																				_0: 'seed.mp3',
-																				_1: {
-																					ctor: '::',
-																					_0: 'so_excited.mp3',
-																					_1: {
-																						ctor: '::',
-																						_0: 'so_honored.mp3',
-																						_1: {
-																							ctor: '::',
-																							_0: 'so_proud.mp3',
-																							_1: {
-																								ctor: '::',
-																								_0: 'thats_a_scam.mp3',
-																								_1: {
-																									ctor: '::',
-																									_0: 'wassup.mp3',
-																									_1: {
-																										ctor: '::',
-																										_0: 'what.mp3',
-																										_1: {
-																											ctor: '::',
-																											_0: 'wowowo.mp3',
-																											_1: {
-																												ctor: '::',
-																												_0: 'yayaya.mp3',
-																												_1: {ctor: '[]'}
-																											}
-																										}
-																									}
-																								}
-																							}
-																						}
-																					}
-																				}
-																			}
-																		}
+																		_0: 'yayaya.mp3',
+																		_1: {ctor: '[]'}
 																	}
 																}
 															}
